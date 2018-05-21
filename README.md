@@ -14,16 +14,22 @@ Aplikacja przeznaczona dla szerokiego grona użytkowników w celach rekreacyjnyc
 Ocena
 Aplikacja działa w sposób prawidłowy, jednak są drobne rzeczy do poprawy (ujęte w sugestiach). Defektów nie znaleziono. Graficznie aplikacja spełnia obecne wymagania.
 Sugestie
+
 Gra dostosowana jest tylko na urządzenia z systemem Android. Co prawda stanowi to większość użytkowników, jednak wdrożenie na system iOS mogłoby być przydatne w rozpowszechnieniu gry.
 
 CHARAKTERYSTYKA
+
 Ogólne
+
 Aplikacja przeznaczona dla wszystkich użytkowników smartfonów z systemem Android.
+
 Funkcjonalności:
+
 Główne:
 Rozgrywka offline „z komputerem”;
 Rozgrywka online z innymi graczami poprzez ich zapraszanie i otrzymywanie zaproszeń;
 Podgląd statystyk i rankingu;
+
 Dodatkowe:
 Czat z innymi użytkownikami online;
 Funkcjonalne
@@ -36,12 +42,14 @@ Podgląd rankingu i statystyk gracza;
 Wyszukiwanie graczy online oraz zapraszanie ich do rozgrywki;
 
 Techniczne
+
 Aplikacja powinna działać tak samo dobrze na telefonach w najbardziej rozpowszechnionych wielkościach ekranów i rozdzielczościach.
 Wskazane są ułatwienia dla osób słabowidzących.
 Łączenie z bazą Firebase, przetrzymywanie w niej informacji o użytkownikach, statystykach i rankingu.
 
 
 ROLE
+
 Użytkownik zalogowany
 Typowe aktywności: Granie offline i online.
 Cechy: Widoczność własnych statystyk i rankingu.
