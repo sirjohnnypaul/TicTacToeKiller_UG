@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tictactoeback"
+    tools:context=".StatisticActivity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:text="Statistics"
+        android:textSize="36sp"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="422dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        tools:layout_editor_absoluteX="8dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="170dp"
+                android:layout_height="match_parent"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:text="Player name" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:text="Points" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/p1TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s1TextView"
+                android:layout_width="186dp"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/p2TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s2TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/p3TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s3TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/p4TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s4TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/p5TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s5TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/p6TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s6TextView"
+                android:layout_width="wrap_content"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_height="wrap_content" />
+        </TableRow>
+    </TableLayout>
+
+</android.support.constraint.ConstraintLayout>
