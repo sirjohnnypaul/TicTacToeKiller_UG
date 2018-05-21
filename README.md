@@ -86,6 +86,6 @@ Możliwość gry online/offline bez potrzeby rejestracji i logowania.
 
 
 
-LINK DO SPECYFIKACJI I RAPORTU Z TESTÓW: https://app.box.com/s/ljjhucq7igm263a0075yuok5gpkheje0
+LINK DO SPECYFIKACJI I RAPORTU Z TESTÓW: https://app.box.com/s/r0ldx26w7hps5rafo6wgyd5yzu6ktm98
 LINK DO INFOGRAFIKI APLIKACJI: https://app.box.com/s/ztslfoox5yjnvxqrs8lpazu19k6j1vja
 
